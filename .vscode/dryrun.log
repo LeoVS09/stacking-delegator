@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/leovs09/work/simple-yield-farm'
+make clean && make build
+make: Leaving directory '/home/leovs09/work/simple-yield-farm'
+ 
